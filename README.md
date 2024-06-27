@@ -1,5 +1,3 @@
-# Password-Generator
-
 # Secure Password Generator
 
 This Python script generates a secure password that meets the following criteria:
